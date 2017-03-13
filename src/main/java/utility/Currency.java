@@ -7,5 +7,5 @@ public class Currency {
     public double exchange(String sourceCurrency, double anmount,String targetCurrency){
         return 0.0;
     }
-    
+
 }
